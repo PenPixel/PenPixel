@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/penpixellogo.jpg" height="150" alt="PenPixel LLP Logo" />
+  <img src="images/PenPixel_Logo.png" height="150" alt="PenPixel LLP Logo" />
   
   <h1>
     <span style="background: linear-gradient(to right, #1a73e8, #00C7B7, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
