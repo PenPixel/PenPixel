@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/penpixellogo.jpg" height="150" alt="PenPixel LLP Logo" />
+  <img src="images/PenPixel_Logo.png" height="150" alt="PenPixel LLP Logo" />
   <h1>PenPixel LLP</h1>
   <p><em>Innovation in AI, Automation & Content</em></p>
   
