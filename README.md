@@ -121,6 +121,47 @@ We design comprehensive automation solutions using:
 
 Our automation solutions have helped businesses reduce operational costs by up to 40% while improving efficiency and accuracy.
 
+## 👥 Meet Our Team
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Our%20Team-FF6B6B?style=for-the-badge" alt="Our Team" />
+</div>
+
+### Dhanashree Tandel
+**HR Manager**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HR-Management-FF69B4?style=for-the-badge" alt="HR Management" />
+</div>
+
+### Vivek Kashav
+**Social Media Manager**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Social-Media-1DA1F2?style=for-the-badge" alt="Social Media" />
+</div>
+
+### Astik Sheoran
+**Full Stack Developer**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-007ACC?style=for-the-badge" alt="Full Stack Development" />
+</div>
+
+### Sankalp Dubedy
+**AI-ML Intern**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20ML-Intern-4ECDC4?style=for-the-badge" alt="AI-ML Intern" />
+</div>
+
+### Pranav Sunil
+**AI-ML Engineer Intern**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20ML-Engineer-34a853?style=for-the-badge" alt="AI-ML Engineer" />
+</div>
+
 ## 🔒 Legal Notice
 
 <div align="center">
