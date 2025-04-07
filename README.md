@@ -134,34 +134,6 @@ Our mission is to democratize access to advanced AI technologies while deliverin
     </a>
   </div>
 </div>
-
-<div style="background: linear-gradient(135deg, #6C4BFF, #9146FF); padding: 20px; border-radius: 10px; color: white;">
-  <h3>5. PixelVision</h3>
-  <p>Computer vision platform for retail analytics and customer behavior insights.</p>
-  <p><strong>Tech Stack:</strong> Python, OpenCV, YOLOv5, TensorFlow, React, GraphQL</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Enterprise-Solution-6C4BFF?style=for-the-badge" alt="Enterprise Solution" />
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #FF6B6B, #FFE66D); padding: 20px; border-radius: 10px; color: white;">
-  <h3>6. ConverseAI</h3>
-  <p>Multilingual conversational AI platform with emotion detection and context retention.</p>
-  <p><strong>Tech Stack:</strong> LangChain, Fastify, Redis, TypeScript, WebSockets</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/SaaS-Platform-FF6B6B?style=for-the-badge" alt="SaaS Platform" />
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #4ECDC4, #1CB5E0); padding: 20px; border-radius: 10px; color: white;">
-  <h3>7. DataSynthesis</h3>
-  <p>Synthetic data generation platform for machine learning training with privacy preservation.</p>
-  <p><strong>Tech Stack:</strong> Python, GANs, JAX, FastAPI, React, PostgreSQL</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/AI-Infrastructure-4ECDC4?style=for-the-badge" alt="AI Infrastructure" />
-  </div>
-</div>
-
 </div>
 
 ## 🌐 Custom AI Solutions
