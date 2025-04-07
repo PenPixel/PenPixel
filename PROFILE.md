@@ -67,23 +67,13 @@ Experienced developer with expertise across frontend, backend, and DevOps, speci
 
 ### Academic Background
 
-- **MSc in Computer Science**
-  University of Manchester, UK
+- **MSc in Advanced Computer Science**
+  University of Birmingham, UK
   Specialization in Artificial Intelligence
 
-- **BSc in Information Technology**
-  Delhi University, India
-  First Class Honours
-
-### Professional Experience
-
-- **Chief Technology Officer**
-  TechInnovate Ltd, London (2017-2020)
-  Led digital transformation initiatives for enterprise clients
-
-- **Senior Software Architect**
-  Global Solutions Inc, New Delhi (2014-2017)
-  Designed and implemented large-scale web applications
+- **B.Tech in Computer Engineering **
+  Pillai College of Engineering
+  Grade: 9.3/10
 
 ### Certifications & Training
 
