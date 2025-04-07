@@ -1,5 +1,3 @@
-# PenPixel LLP
-
 <div align="center">
   <img src="images/PenPixel_Logo.png" height="150" alt="PenPixel LLP Logo" />
   
